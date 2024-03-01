@@ -1,0 +1,14 @@
+.copybutton:hover {
+    background-color: #0554b1;
+}
+
+.copybutton {
+    width: 20%;
+    height: 35px;
+    border: none;
+    background-color: #0075ff;
+}
+
+input::selection{
+    background-color: lightgray;
+}
